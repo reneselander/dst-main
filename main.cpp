@@ -15,7 +15,7 @@ void showMenu() {
 
     std::cout << "" << std::endl;
 
-    std::cout << "     2 >> Distance <<" << std::endl;
+    std::cout << "     2 >> Distance (NM) <<" << std::endl;
 
     std::cout << "" << std::endl;
 
